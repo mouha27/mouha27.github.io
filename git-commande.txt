@@ -2,4 +2,12 @@ git init
 git config --global user.name 'mouha'
 git status
 git add readme
+ git commit -m "last modif"
 git diff
+git checkout -- git-commande.txt
+
+git add readme
+
+ git commit -m "last modif"
+ 
+ git log
